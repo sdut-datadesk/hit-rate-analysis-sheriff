@@ -24,7 +24,7 @@ In some circumstances, deputies list more than one perceived race for an individ
 
 Individuals who were perceived by deputies as Hispanic and any other race, were included in Hispanic totals. Individuals perceived as more than one race were categorized as those with two or more race. The remaining race categories were left the same.
 
-There can be more than one reason for a search to take place. If both a non-discretionary and discretionary reason was listed, the Union-Tribune categorized the search as non-discretionary, since the search would take place, regardless of other circumstances.
+There can be more than one reason for a search to take place. If both a non-discretionary and discretionary reason was listed, the Union-Tribune categorized the search as non-discretionary, since the search would take place regardless of other circumstances.
 
 ### The SDUT repository contains the following:
 
