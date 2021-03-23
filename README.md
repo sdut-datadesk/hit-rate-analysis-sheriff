@@ -28,6 +28,8 @@ Individuals who were perceived by deputies as Hispanic and any other race were i
 
 There can be more than one reason for a search to take place. If both a non-discretionary and discretionary reason was listed, the Union-Tribune categorized the search as non-discretionary, since the search would take place regardless of other circumstances.
 
+It's worth noting that police departments tend to categorize searches as low-discretionary and high-discretionary searches rather than discretionary or non-discretionary.
+
 ### The SDUT repository contains the following:
 
 - `JAN_-_JUN_2019.txt` - Stop data from San Diego Sheriff's Department. Contains stops from January through June 2019.
