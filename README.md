@@ -1,7 +1,7 @@
 # Hit rate and stop analysis: San Diego County Sheriff's Department
 By: [Lauryn Schroeder](https://www.sandiegouniontribune.com/sdut-lauryn-schroeder-staff.html) and [Lyndsay Winkley](https://www.sandiegouniontribune.com/sdut-lyndsay-winkley-staff.html)
 
-This repository contains data and code for the analysis [reported and published](XXXXXX) by *The San Diego Union-Tribune* on March XXXXX, 2021.
+This repository contains data and code for the analysis [reported and published](XXXXXX) by *The San Diego Union-Tribune* on April 4, 2021.
 
 ### About
 
