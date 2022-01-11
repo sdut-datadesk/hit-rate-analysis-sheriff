@@ -20,7 +20,7 @@ The remaining search reasons were considered discretionary to some degree, meani
 
 ### Methodology / Notes
 
-The sheriff department's data contains all pedestrian and traffic stops from July 2018 through June 2020. The original data tables are compiled in four, newline-deliminated JSON files, with nested data frames for each individual involved in each stop. Since more than one individual can be involved a stop (deputies are required to record the race/ethnicity of drivers and passengers) the Union-Tribune opted to analyze the race of each person involved, which is the same technique used by RIPA officials.
+The sheriff department's data contains all pedestrian and traffic stops from July 2018 through June 2020. The original data tables are compiled in four, newline-deliminated JSON files, with nested data frames for each individual involved in each stop. Since more than one individual can be involved in a stop (deputies are required to record the race/ethnicity of drivers and passengers) the Union-Tribune opted to analyze the race of each person involved, which is the same technique used by RIPA officials.
 
 In some circumstances, deputies list more than one perceived race for an individual involved in traffic stops. 
 
